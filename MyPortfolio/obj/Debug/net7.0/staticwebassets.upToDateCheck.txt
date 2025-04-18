@@ -1,0 +1,11 @@
+wwwroot\app.js
+wwwroot\css\app.css
+wwwroot\favicon.ico
+wwwroot\icon-512.png
+wwwroot\images\digi.jpg
+wwwroot\images\doctor.png
+wwwroot\images\document.svg
+wwwroot\images\github.svg
+wwwroot\images\realestate.jpg
+wwwroot\index.html
+wwwroot\manifest.json
