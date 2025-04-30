@@ -15,7 +15,7 @@ A modern, responsive portfolio website originally built with **Blazor**, then co
 
 - HTML5, CSS3 (with SASS), JavaScript (ES6+)
 - Parcel Bundler, PostCSS
-- ESLint, Prettier, Jest
+- ESLint, Prettier
 
 ## 🔁 From Blazor to Web
 
